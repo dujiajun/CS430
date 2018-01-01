@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507718026 source:g:\sjtu\数据结构\chap 3\3.6\非递归.cpp
+	<iostream>
+	<stack>
+
+1507714134 source:g:\sjtu\数据结构\chap 3\3.6\递归.cpp
+	<iostream>
+
