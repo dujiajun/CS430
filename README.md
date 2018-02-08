@@ -1,3 +1,2 @@
 # CS430
-All code of homework for CS430
-Data Structure B
+All code of homework for Data Structure B in SJTU
